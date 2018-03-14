@@ -16,3 +16,22 @@
 ### 2018.03.04-07 公司又想做安卓版本了，使用webview，所以我又要写页面了，这几天全部做小程序转react了。 首先我使用wepy安装了wepy-web的依赖 ，然后使用wepy build --output web 指令生成导出 web文件，甚是欢喜以为不要重写了，但其实并不能在web上真正使用，只能看看它的样式，不过可以利用他的结构。之后遇到一个使用fetch上传图片的问题，死活报400错误，后来发现要去掉content-type才有用。如果服务器返回的是一个text类型，需要调用一下reponse.text（）才有用。。。
 ### 2018.03.08-2018.03.09  过了半天妇女节 然后写了几个小程序页面，练习了一下组件化的wepy 听说美团出mpvue了
 ### 2018.03.12 使用wepy下的框架版本比较落后，需要更新node，发现windows下无法使用n模块更新，不得不去node官网重新下载node进行更新。。。。。。
+### 2018.03.13-14 最近忙着锻炼，今天学了个css3动画，如何做网易云音乐的光盘匀速滚动效果。看flutter ，学着搭了个环境。
+```
+    animation: fucks 2s infinite linear;
+    @keyframes fucks {
+
+    from {
+
+        transform: rotate(0deg);
+
+    }
+
+    to {
+
+        transform: rotate(360deg);
+
+    }
+
+    }
+```
