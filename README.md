@@ -1,21 +1,17 @@
 # IDoRemember.github.io
 新的一年，新的开始。
+https://idoremember.github.io/
+
+
+#  **不打算在这个IDoRemember.github.io里面写blog了，看起来太麻烦，以后都写issues里面啦~~**
+
+ 
+
+ 
 
 
 
-######  **不打算在这个IDoRemember.github.io里面写blog了，看起来太麻烦，以后都写issues里面啦~~**
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
@@ -41,6 +37,10 @@
 
 
 
+
+
+
+ 
 
 ### 2018.02.26 草莓AI微信小程序页面跳转的时候发现了一些知识点，具体看[当天摘抄](https://idoremember.github.io/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E9%A1%B5%E9%9D%A2%E8%B7%B3%E8%BD%AC%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB/).
 ### 2018.02.27 做小程序的时候发现小程序不会像WEB那样进入该页面的时候重新加载初始化，通过小程序的生命周期函数解决了这个问题
